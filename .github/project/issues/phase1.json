@@ -1,0 +1,30 @@
+[
+  {
+    "id": "MS-001",
+    "title": "Kakipセットアップ",
+    "body": "## 概要\r\n\r\nKakipセットアップ を実施する。\r\n\r\n## 対応WBS\r\n\r\n- 管理番号: MS-001\r\n- GitHub Label: phase:environment\r\n- Phase: Phase1 : 環境構築\r\n\r\n## 作業内容\r\n\r\n- [ ] 詳細内容を整理する\r\n- [ ] 実装または検証を行う\r\n- [ ] 動作確認を行う\r\n- [ ] 必要に応じてドキュメントを更新する\r\n\r\n## 備考\r\n\r\n本Issueは project-plan.md のWBS一覧から生成した。",
+    "label": "phase:environment",
+    "milestone": "Phase1 : 環境構築"
+  },
+  {
+    "id": "MS-002",
+    "title": "DisplayLink環境構築",
+    "body": "## 概要\r\n\r\nDisplayLink環境構築 を実施する。\r\n\r\n## 対応WBS\r\n\r\n- 管理番号: MS-002\r\n- GitHub Label: phase:environment\r\n- Phase: Phase1 : 環境構築\r\n\r\n## 作業内容\r\n\r\n- [ ] 詳細内容を整理する\r\n- [ ] 実装または検証を行う\r\n- [ ] 動作確認を行う\r\n- [ ] 必要に応じてドキュメントを更新する\r\n\r\n## 備考\r\n\r\n本Issueは project-plan.md のWBS一覧から生成した。",
+    "label": "phase:environment",
+    "milestone": "Phase1 : 環境構築"
+  },
+  {
+    "id": "MS-003",
+    "title": "AI開発環境構築",
+    "body": "## 概要\r\n\r\nAI開発環境構築 を実施する。\r\n\r\n## 対応WBS\r\n\r\n- 管理番号: MS-003\r\n- GitHub Label: phase:environment\r\n- Phase: Phase1 : 環境構築\r\n\r\n## 作業内容\r\n\r\n- [ ] 詳細内容を整理する\r\n- [ ] 実装または検証を行う\r\n- [ ] 動作確認を行う\r\n- [ ] 必要に応じてドキュメントを更新する\r\n\r\n## 備考\r\n\r\n本Issueは project-plan.md のWBS一覧から生成した。",
+    "label": "phase:environment",
+    "milestone": "Phase1 : 環境構築"
+  },
+  {
+    "id": "REL-001",
+    "title": "Phase1 リリース作業",
+    "body": "## 概要\r\n\r\nPhase1 リリース作業 を実施する。\r\n\r\n## 対応Phase\r\n\r\n- Phase: Phase1 : 環境構築\r\n\r\n## リリース確認\r\n\r\n- [ ] 対象WBSの完了確認\r\n- [ ] 動作確認\r\n- [ ] README更新\r\n- [ ] 設計書更新\r\n- [ ] GitHub Repository更新\r\n- [ ] Zenn記事公開要否の判断\r\n- [ ] YouTube動画公開要否の判断\r\n- [ ] GitHub Release作成要否の判断\r\n- [ ] Milestone完了確認\r\n\r\n## 備考\r\n\r\n公開コンテンツの有無は、フェーズ完了時点で判断する。\r\n\r\n本Issueは project-plan.md のフェーズ締めIssue一覧から生成した。",
+    "label": "phase:release",
+    "milestone": "Phase1 : 環境構築"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "MS-004",
+    "title": "AIサンプル実行",
+    "body": "## 概要\r\n\r\nAIサンプル実行 を実施する。\r\n\r\n## 対応WBS\r\n\r\n- 管理番号: MS-004\r\n- GitHub Label: phase:ai\r\n- Phase: Phase2 : AI検証\r\n\r\n## 作業内容\r\n\r\n- [ ] 詳細内容を整理する\r\n- [ ] 実装または検証を行う\r\n- [ ] 動作確認を行う\r\n- [ ] 必要に応じてドキュメントを更新する\r\n\r\n## 備考\r\n\r\n本Issueは project-plan.md のWBS一覧から生成した。",
+    "label": "phase:ai",
+    "milestone": "Phase2 : AI検証"
+  },
+  {
+    "id": "MS-005",
+    "title": "USBカメラ接続",
+    "body": "## 概要\r\n\r\nUSBカメラ接続 を実施する。\r\n\r\n## 対応WBS\r\n\r\n- 管理番号: MS-005\r\n- GitHub Label: phase:ai\r\n- Phase: Phase2 : AI検証\r\n\r\n## 作業内容\r\n\r\n- [ ] 詳細内容を整理する\r\n- [ ] 実装または検証を行う\r\n- [ ] 動作確認を行う\r\n- [ ] 必要に応じてドキュメントを更新する\r\n\r\n## 備考\r\n\r\n本Issueは project-plan.md のWBS一覧から生成した。",
+    "label": "phase:ai",
+    "milestone": "Phase2 : AI検証"
+  },
+  {
+    "id": "MS-006",
+    "title": "Object Counter検証",
+    "body": "## 概要\r\n\r\nObject Counter検証 を実施する。\r\n\r\n## 対応WBS\r\n\r\n- 管理番号: MS-006\r\n- GitHub Label: phase:ai\r\n- Phase: Phase2 : AI検証\r\n\r\n## 作業内容\r\n\r\n- [ ] 詳細内容を整理する\r\n- [ ] 実装または検証を行う\r\n- [ ] 動作確認を行う\r\n- [ ] 必要に応じてドキュメントを更新する\r\n\r\n## 備考\r\n\r\n本Issueは project-plan.md のWBS一覧から生成した。",
+    "label": "phase:ai",
+    "milestone": "Phase2 : AI検証"
+  },
+  {
+    "id": "REL-002",
+    "title": "Phase2 リリース作業",
+    "body": "## 概要\r\n\r\nPhase2 リリース作業 を実施する。\r\n\r\n## 対応Phase\r\n\r\n- Phase: Phase2 : AI検証\r\n\r\n## リリース確認\r\n\r\n- [ ] 対象WBSの完了確認\r\n- [ ] 動作確認\r\n- [ ] README更新\r\n- [ ] 設計書更新\r\n- [ ] GitHub Repository更新\r\n- [ ] Zenn記事公開要否の判断\r\n- [ ] YouTube動画公開要否の判断\r\n- [ ] GitHub Release作成要否の判断\r\n- [ ] Milestone完了確認\r\n\r\n## 備考\r\n\r\n公開コンテンツの有無は、フェーズ完了時点で判断する。\r\n\r\n本Issueは project-plan.md のフェーズ締めIssue一覧から生成した。",
+    "label": "phase:release",
+    "milestone": "Phase2 : AI検証"
+  }
+]

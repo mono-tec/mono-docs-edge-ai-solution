@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Phase1 : 環境構築",
+    "description": "KakipおよびAI開発環境を準備する"
+  },
+  {
+    "title": "Phase2 : AI検証",
+    "description": "AI SDK、USBカメラ、Object Counterを検証する"
+  },
+  {
+    "title": "Phase3 : システム連携",
+    "description": "Web、PLC、クラウドサービスとの連携を検証する"
+  }
+]

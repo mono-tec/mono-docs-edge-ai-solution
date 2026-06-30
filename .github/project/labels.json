@@ -1,0 +1,27 @@
+[
+  {
+    "name": "phase:design",
+    "color": "6F42C1",
+    "description": "Design and project planning tasks"
+  },
+  {
+    "name": "phase:environment",
+    "color": "0E8A16",
+    "description": "Development environment setup tasks"
+  },
+  {
+    "name": "phase:ai",
+    "color": "FBCA04",
+    "description": "AI verification and model evaluation tasks"
+  },
+  {
+    "name": "phase:integration",
+    "color": "1D76DB",
+    "description": "System integration and external connectivity tasks"
+  },
+  {
+    "name": "phase:release",
+    "color": "C5DEF5",
+    "description": "Release and publishing tasks"
+  }
+]

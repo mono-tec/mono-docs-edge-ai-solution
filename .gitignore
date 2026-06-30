@@ -1,0 +1,102 @@
+# =========================
+# Build results / Binaries
+# =========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Oo]ut/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# =========================
+# Node
+# =========================
+node_modules/
+
+# =========================
+# NuGet / Paket
+# =========================
+*.nupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+packages/
+.paket/
+paket-files/
+
+# =========================
+# Windows / System
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# IDE / Tooling
+# =========================
+_ReSharper*/
+*.DotSettings.user
+*.DotCover
+*.idea/
+*.sln.iml
+.DS_Store
+
+# =========================
+# Keep essentials
+# =========================
+!*.sln
+!*.config
+!*.json
+!*.xml
+!*.md
+!*.txt
+!LICENSE*
+!README*
+!.keep
+
+# =========================
+# Generated documents
+# =========================
+docs/output/
+
+# =========================
+# Temporary
+# =========================
+*.tmp
+*.temp
+*.cache
+
+# ========================================
+# md2pdf-doc-template
+# ========================================
+
+# lint tools
+.markdownlint.yaml
+.markdownlint-cli2.jsonc
+.textlintrc
+cspell.json
+
+# build config
+md-to-pdf-config.js
+
+# build output
+output/
+
+# ========================================
+# OS files
+# ========================================
+
+.DS_Store
+Thumbs.db
